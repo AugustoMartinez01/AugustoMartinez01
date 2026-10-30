@@ -26,7 +26,7 @@ Desarrollo sitios y aplicaciones web pensados para usarse: que se vean prolijos,
 | [Agendalo](https://agendalo-alpha.vercel.app/) | Sistema de turnos online para negocios: página de reservas con logo y colores de cada negocio, agenda, avisos por WhatsApp y panel de administrador. |
 | Serafín Cerrajería | Sitio web con tienda para una cerrajería de Tucumán: catálogo con filtros, pedido por WhatsApp, presupuesto de cerrajería móvil y panel para el dueño. En desarrollo. |
 | [Fradi Compresores](https://fradicompresores.com.ar/) | Sitio web para un comercio de Tucumán: catálogo con fichas técnicas, consulta por WhatsApp y contacto. Desarrollado en equipo. |
-| [SoloQ Challenge — Leaderboard](https://soloq-leaderboard.vercel.app/) | Tabla de posiciones en vivo para un torneo de League of Legends, con datos de la API de Riot Games. |
+| SoloQ Challenge — Leaderboard | Tabla de posiciones en vivo para un torneo de League of Legends, con datos de la API de Riot Games. En desarrollo. |
 | Escala WISC-IV | Software de escritorio para corregir la escala WISC-IV con baremo argentino. |
 | [Portafolio](https://tukodes.vercel.app) | Mi portafolio personal, hecho con React y Vite. |
 
