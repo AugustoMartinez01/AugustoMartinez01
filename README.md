@@ -19,7 +19,8 @@ Desarrollo sitios y aplicaciones web pensados para usarse: que se vean prolijos,
 | Proyecto | Qué es |
 | --- | --- |
 | [Agendalo](https://agendalo-alpha.vercel.app/) | Sistema de turnos online para negocios: página de reservas con logo y colores de cada negocio, agenda, avisos por WhatsApp y panel de administrador. |
-| Serafín Cerrajería | Sitio web con tienda para una cerrajería de Tucumán: catálogo con filtros, pedido por WhatsApp, presupuesto de cerrajería móvil y panel para el dueño. En desarrollo. |
+| [Serafín Cerrajería](https://cerrajeriaserafin.com.ar/) | Sitio web con tienda para una cerrajería de Tucumán: catálogo con filtros, pedido por WhatsApp, presupuesto de cerrajería móvil y pago con Mercado Pago. Conectado a su sistema de gestión (stock, caja y ventas). |
+| [Gallery Import](https://galleryimports.com.ar/) | Landing que funciona como embudo de contactos, con panel comercial (CRM) propio: estados de venta, asesores, notas, WhatsApp directo, aviso por mail y exportación a Excel. React + Supabase. |
 | [Fradi Compresores](https://fradicompresores.com.ar/) | Sitio web para un comercio de Tucumán: catálogo con fichas técnicas, consulta por WhatsApp y contacto. Desarrollado en equipo. |
 | SoloQ Challenge — Leaderboard | Tabla de posiciones en vivo para un torneo de League of Legends, con datos de la API de Riot Games. En desarrollo. |
 | Escala WISC-IV | Software de escritorio para corregir la escala WISC-IV con baremo argentino. |
