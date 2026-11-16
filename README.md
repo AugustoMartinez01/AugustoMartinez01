@@ -43,7 +43,7 @@ Desarrollo sitios y aplicaciones web pensados para usarse: que se vean prolijos,
 - **Vender online:** cobros con Mercado Pago, pedidos por WhatsApp, catálogos con filtros y landings que juntan contactos.
 - **Gestionar el negocio:** sistemas de gestión con punto de venta y stock, CRM de contactos, paneles para cargar productos y reportes exportables a Excel.
 - **Clientes y agenda:** turnos y reservas online, avisos automáticos por mail o WhatsApp, usuarios con inicio de sesión y apps instalables en el celular.
-- **Marketing y a medida:** dominio .com.ar y puesta en línea, medición con Meta Pixel y Google Analytics, programas de escritorio con licencias y conexión con APIs externas.
+- **Marketing y a medida:** dominio .com.ar y puesta en línea, medición con Meta Pixel y Google Analytics y conexión con APIs externas.
 
 ## Proyectos destacados
 
@@ -54,7 +54,6 @@ Desarrollo sitios y aplicaciones web pensados para usarse: que se vean prolijos,
 | [Gallery Import](https://galleryimports.com.ar/) | Landing que funciona como embudo de contactos, con panel comercial (CRM) propio: estados de venta, asesores, notas, WhatsApp directo, aviso por mail y exportación a Excel. React + Supabase. |
 | [Fradi Compresores](https://fradicompresores.com.ar/) | Sitio web para un comercio de Tucumán: catálogo con fichas técnicas, consulta por WhatsApp y contacto. Desarrollado en equipo. |
 | SoloQ Challenge — Leaderboard | Tabla de posiciones en vivo para un torneo de League of Legends, con datos de la API de Riot Games. En desarrollo. |
-| Escala WISC-IV | Software de escritorio para corregir la escala WISC-IV con baremo argentino. |
 | [Portafolio](https://tukodes.com.ar) | Mi portafolio personal, hecho con React y Vite. |
 
 ## Contacto
